@@ -1,5 +1,5 @@
-- Olá, me chamo Marcelo inácio de Souza
-- Estou ingressando no mercado de tecnologia trabalhando na criação, edição e manutenção de websites, midias sociais e marketing
+- Olá, me chamo Marcelo Inácio de Souza
+- Estou ingressando no mercado de tecnologia trabalhando na criação, edição e manutenção de websites, midias sociais e marketing.
 - Atualmente além de ja desenvolver soluções para websites em plataformas CMS WordPress, estou em fase de aprendizado em cursos introdutórios: J.S, C#, Python, CSS e HTML.
 - Conhecimento em Dokan, Elementor, Woocomenrce, Kit Google, WPforms, Correios, dentre outros plugins e extensões para melhorias, adaptações e integrações de gateway de  pagamentos. 
 - Caso haja uma oportunidade, posso colaborar preferencialmente remotamente em soluções CMS.
